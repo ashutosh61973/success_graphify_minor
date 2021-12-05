@@ -39,6 +39,13 @@ basically for a <b>competitive programmer</b>
 ***
 ## Cloning and Debugging
 
+Download project
+```
+
+https://github.com/ashutosh61973/success_graphify_minor.git
+
+```
+
 Get flutter dependencies
 ```
 flutter pub get
