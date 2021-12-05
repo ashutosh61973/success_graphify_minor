@@ -16,7 +16,7 @@ basically for a <b>competitive programmer</b>
 <img src="ss/12.png" width="302" height="480">  <img src="ss/4.png" width="302" height="480">  <img src="ss/7.png" width="302" height="480">
 <img src="ss/20.png" width="302" height="480">  <img src="ss/22.png" width="302" height="480">  <img src="ss/22.png" width="302" height="480">  
 <img src="ss/21.png" width="302" height="480">  <img src="ss/24.png" width="302" height="480">  <img src="ss/8.png" width="302" height="480">  
-<img src="ss/.png" width="302" height="480">  
+
 
 ### Compare User Page
 <img src="ss/23.png" width="302" height="480">  <img src="ss/1.png" width="302" height="480">  <img src="ss/8.png" width="302" height="480">
