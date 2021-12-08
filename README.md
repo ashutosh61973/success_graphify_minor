@@ -35,6 +35,12 @@ basically for a <b>competitive programmer</b>
 ## Api Used 
 * codeforces official api (open to all ).
 
+## flow Chart
+![Untitled Diagram drawio (1)](https://user-images.githubusercontent.com/56062825/145163654-c73d71e5-af8f-4570-aac9-d97319bbfdd4.png)
+
+
+
+
 ## Packages Used
 * http
 * flutter_spinkit
